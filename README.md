@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [link](https://www.frontendmentor.io/solutions/order-summary-component-html-css-onlyz-bNXnupoY5n)
 - Live Site URL: [link](https://order-summary-component-alpha-gold.vercel.app/)
 
 ## My process
