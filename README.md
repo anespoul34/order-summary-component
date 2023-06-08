@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![header](https://github.com/anespoul34/order-summary-component/blob/main/static/assets/images/screenshot.png)
+![header](https://github.com/anespoul34/order-summary-component/blob/main/images/screenshot.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [link](https://order-summary-component-alpha-gold.vercel.app/)
 
 ## My process
 

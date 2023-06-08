@@ -99,6 +99,7 @@ main {
   border-radius: 20px;
   background: var(--white);
   overflow: hidden;
+  box-shadow: 0 15px 25px -10px hsl(225, 100%, 84%);;
 }
 main .header-img {
   width: 100%;
